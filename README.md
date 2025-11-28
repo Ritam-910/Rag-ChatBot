@@ -40,21 +40,6 @@ Combining eye-catching colours with professional utility, Rag-ChatBot makes it *
 
 ---
 
-## 🍭 **Eye-Catching Preview**
-
-> *Bright, fluid, and easy-to-use!*
-
-![Streamlit screenshot](https://github.com/Ritam-910/Rag-ChatBot/assets/your-assets-id/streamlit_screenshot.png)
-
-*(Actual screenshot of Rag-ChatBot Streamlit web app:)*  
-![Streamlit screenshot](https://user-images.githubusercontent.com/your-username/your-image-id.png)
-<!-- 
-Replace with actual image URL if available, for now using direct image from user message
--->
-<img src="https://i.imgur.com/kQKn7yx.png" alt="RAG ChatBot Screenshot" />
-
----
-
 ## 🥳 **Why Rag-ChatBot?**
 
 - Bursts with *colourful design* and *friendly vibes*
