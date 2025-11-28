@@ -18,9 +18,9 @@ Combining eye-catching colours with professional utility, Rag-ChatBot makes it *
 - 🖼️ **Colourful Web App with Streamlit**  
   A lively, interactive UI built using **Streamlit** – ready to make learning *exciting*.
 
-- 🚀 **App Launching Soon**  
-  The **Streamlit app is created** and will be **deployed soon**.  
-  Stay tuned for a bright, seamless experience!
+- 🏡 **Local Model & Database**  
+  The chatbot runs locally on your machine, using **ChromaDB** for efficient local storage and retrieval.  
+  No cloud deployment required—your data stays with you.
 
 ---
 
@@ -48,10 +48,43 @@ Combining eye-catching colours with professional utility, Rag-ChatBot makes it *
 
 ---
 
+## 🏗️ **How to Run Rag-ChatBot Locally**
+
+Because it uses **ChromaDB** and runs locally, you can create your own chatbot with just a few steps:
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/Ritam-910/Rag-ChatBot.git
+   cd Rag-ChatBot
+   ```
+
+2. **(Optional) Set up a virtual environment:**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install required packages:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Streamlit app:**
+   ```bash
+   streamlit run app.py
+   ```
+
+5. **Upload your PDF and start chatting!**
+
+- You can customize the AI model by editing the configuration in the code.
+- Your documents and queries are stored locally using ChromaDB for speed and privacy.
+
+---
+
 ## 🌈 **What's Next?**
 
-- 🎊 **Deployment coming soon!**
 - 🛠️ More colours, more models, more fun improvements
+- Suggestions and contributions always welcome!
 
 ---
 
@@ -67,4 +100,3 @@ Combining eye-catching colours with professional utility, Rag-ChatBot makes it *
 MIT License — open to all colourful minds!
 
 ---
-
