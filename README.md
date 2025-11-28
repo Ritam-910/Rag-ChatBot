@@ -68,5 +68,3 @@ MIT License — open to all colourful minds!
 
 ---
 
-**Note:**  
-- The image shown above is now using the provided screenshot. If you wish to host it on GitHub, you can upload the image to your repository’s assets/images folder or GitHub Releases, then update the markdown to use the new URL (for now, I’ve included an example direct link and an embedded image block).
