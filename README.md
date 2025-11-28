@@ -44,7 +44,7 @@ Combining eye-catching colours with professional utility, Rag-ChatBot makes it *
 
 > *Bright, fluid, and easy-to-use!*
 
-![Streamlit screenshot placeholder](https://raw.githubusercontent.com/streamlit/streamlit/develop/docs/_static/screenshot.png)
+![Streamlit screenshot placeholder]("C:\Users\Ritam Choudhury\Chatbot Project LinkedIn.png")
 
 ---
 
